@@ -1,0 +1,66 @@
+.
+├── artifacts
+│   ├── build-info
+│   │   ├── 295618f93ab48d537b224c84898ee8f1.json
+│   │   └── a3d59806dcd2af6f554c3ecf8ae0252b.json
+│   ├── contracts
+│   │   └── CrossDexArbitrageWithFlashLoan.sol
+│   └── @openzeppelin
+│       └── contracts
+├── cache
+│   └── solidity-files-cache.json
+├── contracts
+│   └── CrossDexArbitrageWithFlashLoan.sol
+├── data
+│   └── abi
+│       ├── contracts
+│       └── @openzeppelin
+├── deployment-info.json
+├── errors
+│   └── BalancerFlashLoanExample.txt
+├── hardhat.config.js
+├── index.js
+├── logs
+│   ├── application-2025-09-05.log
+│   └── tradelogs
+├── package.json
+├── package-lock.json
+├── project_structure.txt
+├── scripts
+│   ├── approveFlashLoan.js
+│   ├── approveTokens.js
+│   ├── checkAllowances.js
+│   ├── configureFlashLoan.js
+│   ├── configurePools.js
+│   ├── configureTokens.js
+│   ├── configureTokensv1.js
+│   ├── configureTraderJoe.js
+│   ├── configureTradeSettings.js
+│   ├── configureUniswap.js
+│   ├── deployContract.js
+│   ├── deployWithHardhat.js
+│   ├── deployWithHardhatWithUtils.js
+│   ├── diagnosticTest.js
+│   ├── extractByteCode.js
+│   ├── getBlockNumber.js
+│   ├── resetNonce.js
+│   ├── testOwner.js
+│   ├── testOwnership.js
+│   ├── verifyAllConfigs.js
+│   ├── verifyContract.js
+│   └── verifyOwnership.js
+├── src
+│   ├── constants.js
+│   ├── index.ts
+│   ├── logger.js
+│   ├── services
+│   │   └── constants
+│   └── utils.js
+├── tsconfig.json
+├── upload
+│   ├── 0x0be39baf6d404794f83703f8e3287814f8c308d83fca9a04452d624360f1bddb.txt
+│   ├── BalancerFlashLoanExample.txt
+│   └── CrossDexArbitrageWithFlashLoan.txt
+└── yarn.lock
+
+21 directories, 43 files

@@ -1,0 +1,12 @@
+# Network Configuration
+AVALANCHE_RPC_URL=https://api.avax.network/ext/bc/C/rpc
+ARBITRUM_RPC_URL=https://arb1.arbitrum.io/rpc
+
+# Deployment Account (NEVER commit real private key)
+PRIVATE_KEY=your_private_key_here
+
+# Contract Addresses (filled after deployment)
+ARBITRAGE_CONTRACT_ADDRESS=0x8aF06Aa13B09a0cAb5Db3B704547021d633E9F5B
+
+NODE_ENV=development
+LOG_LEVEL=debug
